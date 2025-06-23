@@ -27,12 +27,12 @@ Si las tablas Géneros o Calificaciones están vacías, no se pueden agregar lib
 La recarga completa del ListView puede volverse lenta cuando se tienen muchos registros.
 
 ## Retrospectiva
-¿Qué hice bien?
+### ¿Qué hice bien?
 - Comencé por la base de datos y mantuve un orden lógico entre el modelo, la interfaz y la lógica.
 - El separar géneros y calificaciones para evitar datos repetidos.
 - Usé parámetros en las consultas al agregar libros, lo cual ayuda a proteger la integridad de los datos.
 - Realice una interfaz amigable, con validaciones claras y una distribución comprensible.
-¿Qué no salió bien?
+### ¿Qué no salió bien?
 - Al principio no entendía cómo acceder al valor interno de los ComboBox, lo cual provocaba errores al insertar registros.
-¿Qué puedo hacer diferente?
+### ¿Qué puedo hacer diferente?
 - Agregar mensajes más específicos y retroalimentación visual inmediata cuando se agrega, elimina o edita un registro.
