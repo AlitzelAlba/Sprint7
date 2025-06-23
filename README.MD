@@ -33,10 +33,6 @@ La recarga completa del ListView puede volverse lenta cuando se tienen muchos re
 - Usé parámetros en las consultas al agregar libros, lo cual ayuda a proteger la integridad de los datos.
 - Realice una interfaz amigable, con validaciones claras y una distribución comprensible.
 ¿Qué no salió bien?
-<<<<<<< HEAD
 - Al principio no entendía cómo acceder al valor interno de los ComboBox, lo cual provocaba errores al insertar registros.
 ¿Qué puedo hacer diferente?
 - Agregar mensajes más específicos y retroalimentación visual inmediata cuando se agrega, elimina o edita un registro.
-=======
-¿Qué puedo hacer diferente?
->>>>>>> 7b6cea92befce23abf83a22d0166ee91e3a72357
